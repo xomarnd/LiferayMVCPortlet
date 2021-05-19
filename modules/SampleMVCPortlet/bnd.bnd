@@ -1,4 +1,4 @@
 Bundle-Name: SampleMVCPortlet
 Bundle-SymbolicName: ru.sample
-Bundle-Version: 1.0.1
+Bundle-Version: 1.0.3
 Export-Package: ru.sample.constants
